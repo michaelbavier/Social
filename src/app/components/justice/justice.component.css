@@ -16,12 +16,12 @@
 
 .paraJ{
   width: 600px;
-  margin-right: -85px;
+  margin-right: auto;
 }
 
 .logo img{
-  height: 300px;
-  margin-left: 25px;
+  height: 285px;
+  width: 573px;
 }
 
 .paraJ{
@@ -40,9 +40,10 @@
 
 .chapitreJ{
   margin-right: auto;
-  width: 800px;
+  width: 580px;
   text-align: center;
   background-color: #000033;
   color: white;
+  margin-bottom: 20px;
   border-radius: 20px;
 }

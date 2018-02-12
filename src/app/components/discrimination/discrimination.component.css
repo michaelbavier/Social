@@ -15,14 +15,16 @@
 }
 
 .chapitreD{
-  width: 800px;
+  width: 580px;
   text-align: center;
   margin-left: auto;
   background-color: #000033;
   color: white;
+  margin-bottom: 20px;
   border-radius: 20px;
 }
 
 .paraD{
   width: 600px;
+  margin-left: auto;
 }
